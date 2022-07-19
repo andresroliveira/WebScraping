@@ -1,3 +1,4 @@
+from email import charset
 import pandas as pd
 import json
 import re
@@ -52,5 +53,7 @@ URL = [
 ]
 
 for url in URL:
-    print(get_soudtrack_list(url))
-    # json.dump()
+    dic = get_soudtrack_list(url)
+    f = open(url.split('/')[3] + '.json', 'w', encoding='UTF-8')
+    json.dump(dic, f, indent=4, ensure_ascii=False)
+    f.close()
