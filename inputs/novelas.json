@@ -62,5 +62,61 @@
     "year_end": 1981,
     "TV": "Globo",
     "time": "20h"
+  },
+  "Plumas e Paetês Nacional": {
+    "URL": "http://teledramaturgia.com.br/plumas-e-paetes-trilha-nacional/",
+    "novel": "Plumas e Paetês",
+    "year_start": 1980,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Plumas e Paetês Internacional": {
+    "URL": "http://teledramaturgia.com.br/plumas-e-paetes-trilha-internacional/",
+    "novel": "Plumas e Paetês",
+    "year_start": 1980,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "As Três Marias": {
+    "URL": "http://teledramaturgia.com.br/as-tres-marias-trilha-sonora/",
+    "novel": "As Três Marias",
+    "year_start": 1980,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Baila Comigo Nacional": {
+    "URL": "http://teledramaturgia.com.br/baila-comigo-trilha-nacional/",
+    "novel": "Baila Comigo",
+    "year_start": 1981,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Baila Comigo Internacional": {
+    "URL": "http://teledramaturgia.com.br/baila-comigo-trilha-internacional/",
+    "novel": "Baila Comigo",
+    "year_start": 1981,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "O Amor é Nosso! Nacional": {
+    "URL": "http://teledramaturgia.com.br/o-amor-e-nosso-trilha-nacional/",
+    "novel": "O Amor é Nosso!",
+    "year_start": 1981,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "O Amor é Nosso! Internacional": {
+    "URL": "http://teledramaturgia.com.br/o-amor-e-nosso-trilha-internacional/",
+    "novel": "O Amor é Nosso!",
+    "year_start": 1981,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "19h"
   }
 }
