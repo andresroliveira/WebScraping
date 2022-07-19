@@ -1,59 +1,31 @@
-from email import charset
+# http://teledramaturgia.com.br/trilhas-sonoras-globo-1980-a-1984/
+
+from base64 import encode
 import pandas as pd
 import json
-import re
-from bs4 import BeautifulSoup
-from urllib.request import urlopen
+from SoundtrackList import get_soudtrack_list
 
 
-def get_soudtrack_list(URL):
-    with urlopen(URL) as f:
-        web_string = f.read().decode("UTF-8")
+def main():
+    with open('inputs/novelas.json', encoding="UTF-8") as file:
+        data = json.load(file)
+    # print(data)
+    for d in data:
+        url = data[d]['URL']
+        novel = data[d]['novel']
+        year_start = data[d]['year_start']
+        year_end = data[d]['year_end']
+        time = data[d]['time']
+        tv = data[d]['TV']
 
-    soup = BeautifulSoup(web_string, 'html.parser')
+        dic = get_soudtrack_list(url, novel, year_start, year_end, time, tv)
 
-    cont = soup.find("div", class_='post-content')
-
-    itens = list(list(cont.children)[2].children)
-
-    # print(len(itens))
-
-    dic = {}
-    music_number = 0
-
-    for i in range(1, len(itens)):
-        structure = str(itens[i]).split('<br/>')
-        if structure != ['', '']:
-            if structure[0].find('<i>') == -1:
-                music_number += 1
-
-                structure = structure[0].split('.')[1]
-                # print(structure)
-                name = structure.split(' – ')[0]
-                composer = structure.split(' – ')[1]
-                # print(music_number, name, composer)
-                dic[music_number] = {
-                    "name": name.strip(),
-                    "composer": composer.strip(),
-                    "obs": ''
-                }
-            else:
-                # print(structure[0])
-                obs = re.search('<i>\((.*)\)</i>', structure[0]).group(1)
-                # print(obs)
-                dic[music_number]["obs"] = obs.strip()
-
-    return dic
+        df = pd.DataFrame.from_dict(dic)
+        df.to_csv('outputs/' + novel + '.csv', index=False)
+        f = open('outputs/' + novel + '.json', 'w', encoding='UTF-8')
+        json.dump(dic, f, indent=4, ensure_ascii=False)
+        f.close()
 
 
-URL = [
-    "http://teledramaturgia.com.br/olhai-os-lirios-do-campo-trilha-sonora/",
-    "http://teledramaturgia.com.br/agua-viva-trilha-nacional/",
-    "http://teledramaturgia.com.br/chega-mais-trilha-internacional/"
-]
-
-for url in URL:
-    dic = get_soudtrack_list(url)
-    f = open(url.split('/')[3] + '.json', 'w', encoding='UTF-8')
-    json.dump(dic, f, indent=4, ensure_ascii=False)
-    f.close()
+if __name__ == "__main__":
+    main()
