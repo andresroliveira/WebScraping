@@ -6,5 +6,21 @@
     "year_end": 1980,
     "TV": "Globo",
     "time": "18h"
+  },
+  "Água Viva Nacional": {
+    "URL": "http://teledramaturgia.com.br/agua-viva-trilha-nacional/",
+    "novel": "Água Viva",
+    "year_start": 1980,
+    "year_end": 1980,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Água Viva Internacional": {
+    "URL": "http://teledramaturgia.com.br/agua-viva-trilha-internacional/",
+    "novel": "Água Viva",
+    "year_start": 1980,
+    "year_end": 1980,
+    "TV": "Globo",
+    "time": "20h"
   }
 }

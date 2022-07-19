@@ -31,7 +31,8 @@ def get_soudtrack_list(URL: str, novel: str, year_star: int, year_end: int,
         if structure != ['', '']:
             if structure[0].find('<i>') == -1:
                 music_number += 1
-                structure = structure[0].split('.')[1]
+                # print(structure[0])
+                structure = structure[0][4:]
                 name = structure.split(' – ')[0]
                 artist = structure.split(' – ')[1]
                 dic['novel'].append(novel.strip())
@@ -43,7 +44,8 @@ def get_soudtrack_list(URL: str, novel: str, year_star: int, year_end: int,
                 dic['artist_music'].append(artist.strip())
                 dic['obs'].append('')
             else:
-                obs = re.search('<i>\((.*)\)</i>', structure[0]).group(1)
-                dic['obs'][music_number] = obs.strip()
+                obs = re.search('<i>\((.*)\)</i>', structure[0])
+                if obs:
+                    dic['obs'][music_number] = obs.group(1).strip()
 
     return dic
