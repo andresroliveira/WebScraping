@@ -118,5 +118,125 @@
     "year_end": 1981,
     "TV": "Globo",
     "time": "19h"
+  },
+  "Ciranda de Pedra (1981)": {
+    "URL": "http://teledramaturgia.com.br/ciranda-de-pedra-trilha-sonora-1981/",
+    "novel": "Ciranda de Pedra 1981",
+    "year_start": 1981,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Brilhante Nacional": {
+    "URL": "http://teledramaturgia.com.br/brilhante-trilha-nacional/",
+    "novel": "Brilhante",
+    "year_start": 1981,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Brilhante Internacional": {
+    "URL": "http://teledramaturgia.com.br/brilhante-trilha-internacional/",
+    "novel": "Brilhante",
+    "year_start": 1981,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Jogo da Vida Nacional": {
+    "URL": "http://teledramaturgia.com.br/jogo-da-vida-trilha-nacional/",
+    "novel": "Jogo da Vida",
+    "year_start": 1981,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Jogo da Vida Internacional": {
+    "URL": "http://teledramaturgia.com.br/jogo-da-vida-trilha-internacional/",
+    "novel": "Jogo da Vida",
+    "year_start": 1981,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Terras do Sem Fim": {
+    "URL": "http://teledramaturgia.com.br/terras-do-sem-fim-trilha-sonora/",
+    "novel": "Terra do Sem Fim",
+    "year_start": 1981,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "O Homem Proibido (1982) Nacional": {
+    "URL": "http://teledramaturgia.com.br/o-homem-proibido-trilha-nacional-1982/",
+    "novel": "O Homem Proibido (1982)",
+    "year_start": 1982,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "O Homem Proibido (1982) Internacional": {
+    "URL": "http://teledramaturgia.com.br/o-homem-proibido-trilha-internacional-1982/",
+    "novel": "O Homem Proibido (1982)",
+    "year_start": 1982,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Sétimo Sentido Nacional": {
+    "URL": "http://teledramaturgia.com.br/setimo-sentido-trilha-nacional/",
+    "novel": "Sétimo Sentido",
+    "year_start": 1982,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Sétimo Sentido Internacional": {
+    "URL": "http://teledramaturgia.com.br/setimo-sentido-trilha-internacional/",
+    "novel": "Sétimo Sentido",
+    "year_start": 1982,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Elas por Elas Nacional": {
+    "URL": "http://teledramaturgia.com.br/elas-por-elas-trilha-nacional/",
+    "novel": "Elas por Elas",
+    "year_start": 1982,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Elas por Elas Internacional": {
+    "URL": "http://teledramaturgia.com.br/elas-por-elas-trilha-internacional/",
+    "novel": "Elas por Elas",
+    "year_start": 1982,
+    "year_end": 1982,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Paraíso (1982)": {
+    "URL": "http://teledramaturgia.com.br/paraiso-trilha-sonora-1982/",
+    "novel": "Paraíso 1982",
+    "year_start": 1982,
+    "year_end": 1983,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Sol de Verão Nacional": {
+    "URL": "http://teledramaturgia.com.br/sol-de-verao-trilha-nacional/",
+    "novel": "Sol de Verão",
+    "year_start": 1982,
+    "year_end": 1983,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Sol de Verão Internacional": {
+    "URL": "http://teledramaturgia.com.br/sol-de-verao-trilha-internacional/",
+    "novel": "Sol de Verão",
+    "year_start": 1982,
+    "year_end": 1983,
+    "TV": "Globo",
+    "time": "20h"
   }
 }
