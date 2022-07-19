@@ -8,8 +8,9 @@ from SoundtrackList import get_soudtrack_list
 def main():
     with open('inputs/novelas.json', encoding="UTF-8") as file:
         data = json.load(file)
-    # print(data)
-    for d in data:
+
+    # for d in data: # get all form data
+    for d in list(data)[-4:]:  # get the las t 4 in data
         print(d)
         url = data[d]['URL']
         novel = data[d]['novel']
