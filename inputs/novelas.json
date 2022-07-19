@@ -22,5 +22,45 @@
     "year_end": 1980,
     "TV": "Globo",
     "time": "20h"
+  },
+  "Chega Mais Nacional": {
+    "URL": "http://teledramaturgia.com.br/chega-mais-trilha-nacional/",
+    "novel": "Chega Mais",
+    "year_start": 1980,
+    "year_end": 1980,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Chega Mais Internacional": {
+    "URL": "http://teledramaturgia.com.br/chega-mais-trilha-internacional/",
+    "novel": "Chega Mais",
+    "year_start": 1980,
+    "year_end": 1980,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Marina (1980)": {
+    "URL": "http://teledramaturgia.com.br/marina-trilha-sonora-1980/",
+    "novel": "Marina 1980",
+    "year_start": 1980,
+    "year_end": 1980,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Coração Alado Nacional": {
+    "URL": "http://teledramaturgia.com.br/coracao-alado-trilha-nacional/",
+    "novel": "Coração Alado",
+    "year_start": 1980,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Coração Alado Internacional": {
+    "URL": "http://teledramaturgia.com.br/coracao-alado-trilha-internacional/",
+    "novel": "Coração Alado",
+    "year_start": 1980,
+    "year_end": 1981,
+    "TV": "Globo",
+    "time": "20h"
   }
 }
