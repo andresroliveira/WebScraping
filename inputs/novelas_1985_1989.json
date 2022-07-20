@@ -1,0 +1,410 @@
+{
+  "Um Sonho a Mais Nacional": {
+    "URL": "http://teledramaturgia.com.br/um-sonho-a-mais-trilha-nacional/",
+    "novel": "Um Sonho a Mais",
+    "year_start": 1985,
+    "year_end": 1985,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Um Sonho a Mais Internacional": {
+    "URL": "http://teledramaturgia.com.br/um-sonho-a-mais-trilha-internacional/",
+    "novel": "Um Sonho a Mais",
+    "year_start": 1985,
+    "year_end": 1985,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "A Gata Comeu Nacional": {
+    "URL": "http://teledramaturgia.com.br/a-gata-comeu-trilha-nacional/",
+    "novel": "A Gata Comeu",
+    "year_start": 1985,
+    "year_end": 1985,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "A Gata Comeu Internacional": {
+    "URL": "http://teledramaturgia.com.br/a-gata-comeu-trilha-internacional/",
+    "novel": "A Gata Comeu",
+    "year_start": 1985,
+    "year_end": 1985,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Roque Santeiro Volume 1": {
+    "URL": "http://teledramaturgia.com.br/roque-santeiro-trilha-sonora-volume-1/",
+    "novel": "Roque Santeiro",
+    "year_start": 1975,
+    "year_end": 1975,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Roque Santeiro Volume 2": {
+    "URL": "http://teledramaturgia.com.br/roque-santeiro-trilha-sonora-volume-2/",
+    "novel": "Roque Santeiro",
+    "year_start": 1985,
+    "year_end": 1985,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Ti-ti-ti 1985 Nacional": {
+    "URL": "http://teledramaturgia.com.br/ti-ti-ti-trilha-nacional-1985/",
+    "novel": "Ti-ti-ti (1985)",
+    "year_start": 1985,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Ti-ti-ti 1985 Internacional": {
+    "URL": "http://teledramaturgia.com.br/ti-ti-ti-trilha-internacional-1985/",
+    "novel": "Ti-ti-ti (1985)",
+    "year_start": 1985,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "De Quina Pra Lua Nacional": {
+    "URL": "http://teledramaturgia.com.br/de-quina-pra-lua-trilha-nacional/",
+    "novel": "De Quina Pra Lua",
+    "year_start": 1985,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "De Quina Pra Lua Internacional": {
+    "URL": "http://teledramaturgia.com.br/de-quina-pra-lua-trilha-internacional/",
+    "novel": "De Quina Pra Lua",
+    "year_start": 1985,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Selva de Pedra 1986  Nacional": {
+    "URL": "http://teledramaturgia.com.br/selva-de-pedra-trilha-nacional-1986/",
+    "novel": "Selva de Pedra (1986)",
+    "year_start": 1986,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Selva de Pedra 1986 Internacional": {
+    "URL": "http://teledramaturgia.com.br/selva-de-pedra-trilha-internacional-1986/",
+    "novel": "Selva de Pedra (1986)",
+    "year_start": 1972,
+    "year_end": 1973,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Cambalacho Nacional": {
+    "URL": "http://teledramaturgia.com.br/cambalacho-trilha-nacional/",
+    "novel": "Cambalacho",
+    "year_start": 1986,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Cambalacho Internacional": {
+    "URL": "http://teledramaturgia.com.br/cambalacho-trilha-internacional/",
+    "novel": "Cambalacho",
+    "year_start": 1986,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Sinhá Moça 1986": {
+    "URL": "http://teledramaturgia.com.br/sinha-moca-trilha-sonora-1986/",
+    "novel": "Sinhá Moça (1986)",
+    "year_start": 1986,
+    "year_end": 1986,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Roda de Fogo 1986 Nacional": {
+    "URL": "http://teledramaturgia.com.br/roda-de-fogo-trilha-nacional-1986/",
+    "novel": "Roda de Fogo",
+    "year_start": 1986,
+    "year_end": 1987,
+    "TV": "Tupi",
+    "time": "20h"
+  },
+  "Roda de Fogo 1986 Internacional": {
+    "URL": "http://teledramaturgia.com.br/roda-de-fogo-trilha-internacional-1986/",
+    "novel": "Roda de Fogo",
+    "year_start": 1986,
+    "year_end": 1987,
+    "TV": "Tupi",
+    "time": "20h"
+  },
+  "Hipertensão Nacional": {
+    "URL": "http://teledramaturgia.com.br/hipertensao-trilha-nacional/",
+    "novel": "Hipertensão",
+    "year_start": 1986,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Hipertensão Internacional": {
+    "URL": "http://teledramaturgia.com.br/hipertensao-trilha-internacional/",
+    "novel": "Hipertensão",
+    "year_start": 1986,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Direito de Amar": {
+    "URL": "http://teledramaturgia.com.br/direito-de-amar-trilha-sonora/",
+    "novel": "Direito de Amar",
+    "year_start": 1987,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "O Outro Nacional": {
+    "URL": "http://teledramaturgia.com.br/o-outro-trilha-nacional/",
+    "novel": "O Outro",
+    "year_start": 1987,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "O Outro Internacional": {
+    "URL": "http://teledramaturgia.com.br/o-outro-trilha-internacional/",
+    "novel": "O Outro",
+    "year_start": 1987,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Brega e Chique Nacional": {
+    "URL": "http://teledramaturgia.com.br/brega-e-chique-trilha-nacional/",
+    "novel": "Brega e Chique",
+    "year_start": 1987,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Brega e Chique Internacional": {
+    "URL": "http://teledramaturgia.com.br/brega-e-chique-trilha-internacional/",
+    "novel": "Brega e Chique",
+    "year_start": 1987,
+    "year_end": 1987,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Bambolê Volume 1": {
+    "URL": "http://teledramaturgia.com.br/bambole-trilha-sonora-volume-1/",
+    "novel": "Bambolê",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Bambolê Volume 2": {
+    "URL": "http://teledramaturgia.com.br/bambole-trilha-sonora-volume-2/",
+    "novel": "Bambolê",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Mandala Nacional": {
+    "URL": "http://teledramaturgia.com.br/mandala-trilha-nacional/",
+    "novel": "Mandala",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Mandala Internacional": {
+    "URL": "http://teledramaturgia.com.br/mandala-trilha-internacional/",
+    "novel": "Mandala",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Mandala Complementar": {
+    "URL": "http://teledramaturgia.com.br/mandala-trilha-sonora-complementar/",
+    "novel": "Mandala",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Sassaricando Nacional": {
+    "URL": "http://teledramaturgia.com.br/sassaricando-trilha-nacional/",
+    "novel": "Sassaricando",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Sassaricando Internacional": {
+    "URL": "http://teledramaturgia.com.br/sassaricando-trilha-internacional/",
+    "novel": "Sassaricando",
+    "year_start": 1987,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Fera Radical Nacional": {
+    "URL": "http://teledramaturgia.com.br/fera-radical-trilha-nacional/",
+    "novel": "Fera Radical",
+    "year_start": 1988,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Fera Radical Internacional": {
+    "URL": "http://teledramaturgia.com.br/fera-radical-trilha-internacional/",
+    "novel": "Fera Radical",
+    "year_start": 1988,
+    "year_end": 1988,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Vale Tudo Nacional": {
+    "URL": "http://teledramaturgia.com.br/vale-tudo-trilha-nacional/",
+    "novel": "Vale Tudo",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Vale Tudo Internacional": {
+    "URL": "http://teledramaturgia.com.br/vale-tudo-trilha-internacional/",
+    "novel": "Vale Tudo",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Bebê a Bordo Nacional": {
+    "URL": "http://teledramaturgia.com.br/bebe-a-bordo-trilha-nacional/",
+    "novel": "Bebê a Bordo",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Bebê a Bordo Internacional": {
+    "URL": "http://teledramaturgia.com.br/bebe-a-bordo-trilha-internacional/",
+    "novel": "Bebê a Bordo",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Bebê a Bordo complementar": {
+    "URL": "http://teledramaturgia.com.br/bebe-a-bordo-trilha-complementar/",
+    "novel": "Bebê a Bordo",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Vida Nova Nacional": {
+    "URL": "http://teledramaturgia.com.br/vida-nova-trilha-nacional/",
+    "novel": "Vida Nova",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Vida Nova Internacional": {
+    "URL": "http://teledramaturgia.com.br/vida-nova-trilha-internacional/",
+    "novel": "Vida Nova",
+    "year_start": 1988,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "O Salvador da Pátria Nacional": {
+    "URL": "http://teledramaturgia.com.br/o-salvador-da-patria-trilha-nacional/",
+    "novel": "O Salvador da Pátria",
+    "year_start": 1989,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "O Salvador da Pátria Internacional": {
+    "URL": "http://teledramaturgia.com.br/o-salvador-da-patria-trilha-internacional/",
+    "novel": "O Salvador da Pátria",
+    "year_start": 1989,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Que Rei Sou Eu? Nacional": {
+    "URL": "http://teledramaturgia.com.br/que-rei-sou-eu-trilha-nacional/",
+    "novel": "Que Rei Sou Eu?",
+    "year_start": 1989,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Que Rei Sou Eu? Internacional": {
+    "URL": "http://teledramaturgia.com.br/que-rei-sou-eu-trilha-internacional/",
+    "novel": "Que Rei Sou Eu?",
+    "year_start": 1989,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Pacto de Sangue ": {
+    "URL": "http://teledramaturgia.com.br/pacto-de-sangue-trilha-sonora/",
+    "novel": "Pacto de Sangue",
+    "year_start": 1989,
+    "year_end": 1989,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "Tieta Volume 1": {
+    "URL": "http://teledramaturgia.com.br/tieta-trilha-sonora-volume-1/",
+    "novel": "Tieta",
+    "year_start": 1989,
+    "year_end": 1990,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Tieta Volume 2": {
+    "URL": "http://teledramaturgia.com.br/tieta-trilha-sonora-volume-2/",
+    "novel": "Tieta",
+    "year_start": 1989,
+    "year_end": 1990,
+    "TV": "Globo",
+    "time": "20h"
+  },
+  "Top Model Nacional": {
+    "URL": "http://teledramaturgia.com.br/top-model-trilha-nacional/",
+    "novel": "Top Model",
+    "year_start": 1989,
+    "year_end": 1990,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "Top Model Internacional": {
+    "URL": "http://teledramaturgia.com.br/top-model-trilha-internacional/",
+    "novel": "Top Model",
+    "year_start": 1989,
+    "year_end": 1990,
+    "TV": "Globo",
+    "time": "19h"
+  },
+  "O Sexo dos Anjos Nacional": {
+    "URL": "http://teledramaturgia.com.br/o-sexo-dos-anjos-trilha-nacional/",
+    "novel": "O Sexo dos Anjos",
+    "year_start": 1989,
+    "year_end": 1990,
+    "TV": "Globo",
+    "time": "18h"
+  },
+  "O Sexo dos Anjos Internacional": {
+    "URL": "http://teledramaturgia.com.br/o-sexo-dos-anjos-trilha-internacional/",
+    "novel": "O Sexo dos Anjos",
+    "year_start": 1989,
+    "year_end": 1990,
+    "TV": "Globo",
+    "time": "18h"
+  }
+}
